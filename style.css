@@ -1,0 +1,14 @@
+img {
+  width: 300px;
+  height: 250px;
+  object-fit: cover;
+  
+}
+
+body {
+  text-align: center;
+  color: #61BC57;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #212224;
+  margin: 50px;
+}
